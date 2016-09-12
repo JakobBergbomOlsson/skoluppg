@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,10 +23,12 @@ namespace ConsoleApplication1
 
             Console.WriteLine("Mata in ditt förnamn: ");
             string inmatat = Console.Readline();
-            string for = string.Parse(inmatat);
+            string för = string.Parse(inmatat);
             Console.WriteLine("Mata in ditt efternamn: ");
             string inmatat2 = Console.ReadLine();
-            string efter = string.Parse(inmatat2);        
+            string efter = string.Parse(inmatat2);
+
+            Console.WriteLine("Hejsan, " + för + efter);      
              
              
         }
