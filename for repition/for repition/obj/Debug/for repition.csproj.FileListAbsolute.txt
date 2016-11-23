@@ -1,0 +1,6 @@
+C:\Users\Jakob\Source\Repos\repition\for repition\for repition\bin\Debug\for repition.exe.config
+C:\Users\Jakob\Source\Repos\repition\for repition\for repition\bin\Debug\for repition.exe
+C:\Users\Jakob\Source\Repos\repition\for repition\for repition\bin\Debug\for repition.pdb
+C:\Users\Jakob\Source\Repos\repition\for repition\for repition\obj\Debug\for repition.csprojResolveAssemblyReference.cache
+C:\Users\Jakob\Source\Repos\repition\for repition\for repition\obj\Debug\for repition.exe
+C:\Users\Jakob\Source\Repos\repition\for repition\for repition\obj\Debug\for repition.pdb
