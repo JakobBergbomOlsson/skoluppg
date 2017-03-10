@@ -1,0 +1,10 @@
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csprojResolveAssemblyReference.cache
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\obj\Debug\TicTacToe.TicTacToe.resources
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\jakobbn\Desktop\skoluppg - programering\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form2.resources

@@ -1,0 +1,9 @@
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\bin\Debug\Notepad.exe.config
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\obj\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\bin\Debug\Notepad.exe
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\bin\Debug\Notepad.pdb
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\obj\Debug\Notepad.exe
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\obj\Debug\Notepad.pdb
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+C:\Users\jakobbn\Desktop\skoluppg - programering\Notepad\Notepad\obj\Debug\Notepad.Notepad.resources
